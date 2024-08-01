@@ -1,0 +1,23 @@
+{
+    "email": "maaznadeem42@gmail.com",
+    "password": "Software@1122#",
+    "account_name": "Sample Account",
+    "currency": "USD",
+    "campaign_name": "Sample Campaign",
+    "objective": "Brand awareness",
+    "audience_option": "LinkedIn template",
+    "linkedin_template": "Expertise in Computer Science",
+    "location": "Canada",
+    "linkedin_page_url": "https://www.linkedin.com/company/digito-systems-and-design/?viewAsMember=true",
+    "budget": "400",
+    "start_date": "08/15/2024",
+    "end_date": "08/22/2024",
+    "ad_format": "Single image",
+    "ad_name": "Ad Name",
+    "ad_introductory_text": "Ad Text",
+    "content": {
+      "video": "content_library/sample_video.mp4",
+      "image": "content_library/sample_image.jpg",
+      "text": "content_library/sample_text.txt"
+    }
+  }
